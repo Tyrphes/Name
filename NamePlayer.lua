@@ -8,11 +8,12 @@ local PlayerNameList = {
 	{1635709227,"Galaxy","NAVI"},
 	{397984949,"Akuma","Team Liquid"},
 	{145158047,"Dawid","NAVI"},
-	{498435664,"diff","Team Liquid"},
+	{498435664,"c0mpl3x","Team Liquid"},
 	{2583235221,"fern","NAVI"},
 	{2202955325,"BinMC","NAVI"},
 	{378191085,"Bap","NAVI"},
 	{2649959498,"Kite","NAVI"},
 	{218402157,"tri","NAVI"}
+	{1647685028,"Khoanon","Team Liquid"}
 }
 return PlayerNameList
